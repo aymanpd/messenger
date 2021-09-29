@@ -27,5 +27,7 @@
     "socket.io": "^2.3.0",
     "validator": "^12.2.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@types/react-dom": "^17.0.9"
+  }
 }
